@@ -10,6 +10,9 @@ How to use it :
 - Use *npm install* to install all dependencies in node_modules directory
 - Each exercise is numeroted depends on Stream-Adventure lessons.
 
+Required modules :
+-----------------------------------------------
+- *through*
 
 
 

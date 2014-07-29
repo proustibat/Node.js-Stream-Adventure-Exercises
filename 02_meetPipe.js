@@ -12,11 +12,11 @@ var readStream = fs.createReadStream(fileLocation);
 
 // The stream is valid to piping
 readStream.on("open", function onOpen() {
-	// Pipes the read stream to the process.stderr
+	// Pipes the read stream to the process.stdout
 	readStream.pipe(process.stdout);
 });
 
 // Catches any errors while creating the stream
 readStream.on("error", function onError(err) {
-	console.log(err.toString());
+	process.stderr.write(err.toString());
 });

@@ -9,6 +9,3 @@ process.stdin.on('readable', function() {
 
 // official solution :
 // process.stdin.pipe(process.stdout);
-
-
-
