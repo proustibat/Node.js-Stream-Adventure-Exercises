@@ -1,0 +1,16 @@
+{
+  "name": "Stream-Adventure-Exercises",
+  "version": "1.0.0",
+  "description": "Learn how to compose streaming interfaces with .pipe()",
+  "keywords": [],
+  "author": {
+    "name": "Jennifer Proust",
+    "url": "https://github.com/proustibat"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Learn how to compose streaming interfaces with .pipe()"
+  },
+  "dependencies": {
+  }
+}

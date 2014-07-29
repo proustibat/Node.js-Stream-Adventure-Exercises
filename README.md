@@ -6,7 +6,7 @@ Learn how to compose streaming interfaces with .pipe()
 
 How to use it :
 -----------------------------------------------
-- Install Learnyounode
+- Install Stream-Adventure (*npm install stream-adventure*)
 - Use *npm install* to install all dependencies in node_modules directory
 - Each exercise is numeroted depends on Stream-Adventure lessons.
 
