@@ -12,8 +12,8 @@ How to use it :
 
 Required modules :
 -----------------------------------------------
-- *through*
-- *split*
+- *through* | https://www.npmjs.org/package/through
+- *split* | https://www.npmjs.org/package/split
 
 
 
