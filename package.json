@@ -12,6 +12,7 @@
     "url": "Learn how to compose streaming interfaces with .pipe()"
   },
   "dependencies": {
-    "through": "2.3.x"
+    "through": "2.3.x",
+    "split": "0.3.x"
   }
 }
