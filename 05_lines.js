@@ -43,11 +43,8 @@ transformString.pipe(process.stdout);
 
 
 
-
 /***
  OFFICIAL SOLUTION :
-
-
 
 
 var through = require('through');
